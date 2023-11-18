@@ -1,0 +1,16 @@
+{
+  "stars": [
+    {
+      "name": 1,
+      "title": "alpha"
+    },
+    {
+      "id": 2,
+      "title": "beta"
+    },
+    {
+      "id": 3,
+      "title": "gamma"
+    }
+  ]
+}
